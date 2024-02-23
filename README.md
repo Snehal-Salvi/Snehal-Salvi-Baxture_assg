@@ -5,7 +5,7 @@ This is a simple user management application built with React and Mantine UI lib
 
 ## Deployment
 
-The application is deployed and can be accessed [here]().
+The application is deployed and can be accessed [here](https://snehal-salvi-baxture-assg.onrender.com).
 
 
 
