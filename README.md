@@ -33,7 +33,7 @@ yarn start
 ```
 5. Open your web browser and visit:
 ```
-http://localhost:3000 
+http://localhost:{PORT} 
 ```
 
 ## Usage
